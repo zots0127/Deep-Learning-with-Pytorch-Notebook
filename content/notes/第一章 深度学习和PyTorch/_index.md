@@ -1,27 +1,25 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: 第一章 深度学习和PyTorch库
+summary: 本章我们会接触并了解到什么是PyTorch。并且会介绍它到底解决了什么问题，同时还会介绍PyTorch与其他深度学习框架之间的关系。
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
-date: "2018-09-09T00:00:00Z"
+title: 第一章 深度学习和PyTorch库
+date: "2021-05-01T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## 内容简介
 
-Document everything!
+本章内容主要包括
 
-This feature can be used for publishing content such as:
-
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+* **深度学习改变了我们对机器学习的看法**
+* **了解为什么应该用PyTorch进行深度学习**
+* **介绍一个具体的深度学习项目**
+* **实例中你可能用到的硬件**
 
 The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 

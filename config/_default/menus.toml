@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
-  url = "docs/"
+  name = "Deep Learning With PyTorch"
+  url = "notes/"
   weight = 10
